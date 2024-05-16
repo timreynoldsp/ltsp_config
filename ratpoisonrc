@@ -1,0 +1,3 @@
+set border 0
+startup_message off
+exec firefox-esr --kiosk "http://10.0.0.3/"
